@@ -1,3 +1,3 @@
 # forthegram
 
-[How to use Style](https://codepen.io/jesscjess/pen/JLKZma)
+1. [Begin with Style](https://codepen.io/jesscjess/pen/JLKZma)
