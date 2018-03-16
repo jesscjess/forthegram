@@ -1,7 +1,7 @@
 # forthegram
 
 I used CodePen to create links you can practise with:
-![CodePen Screenshot](/img/codepen_screenshot.PNG?raw=true=100x "CodePen Screenshot")
+![CodePen Screenshot](/img/codepen_screenshot.PNG?raw=true =100x "CodePen Screenshot")
 
 You use the darker area at the top to write your code and the ouptut will show in the white area at the bottom. 
 
