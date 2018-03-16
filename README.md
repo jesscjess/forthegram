@@ -1,6 +1,6 @@
 # forthegram
 
-I use CodePen to create links you can practise with:
+I use CodePen to create links you can practise with. This is what CodePen looks like:
 
 ![CodePen Screenshot](/img/codepen_screenshot.PNG)
 
