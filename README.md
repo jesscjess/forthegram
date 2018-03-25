@@ -1,9 +1,5 @@
-# forthegram
+# Tutorial Links
 
-I use CodePen to create links you can practise with. This is what CodePen looks like:
+Use the links below to access the tutorials on my Instagram page @mujerdev...
 
-![CodePen Screenshot](/img/codepen_screenshot.PNG)
-
-You use the darker area at the top to write your code and the ouptut will show in the white area at the bottom. 
-
-1. [Begin with Style](https://codepen.io/jesscjess/pen/JLKZma)
+1. [Give it Colour](https://codepen.io/jesscjess/pen/JLKZma)
