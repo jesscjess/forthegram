@@ -2,6 +2,8 @@
 
 Use the links below to access the tutorials on my Instagram page @mujerdev...
 
+6 . [Want that Font](https://codepen.io/jesscjess/pen/NYMmWN)
+
 5 . [Line and its Height](https://codepen.io/jesscjess/pen/PREzyp)
 
 4 . [Work that Real Estate](https://codepen.io/jesscjess/pen/XEVgRP)
