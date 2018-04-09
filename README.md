@@ -1,6 +1,8 @@
 # Tutorial Links
 
-Use the links below to access the tutorials on my Instagram page @mujerdev...
+I make the web MINE by using it to [express myself](https://jessc.co.uk/#jesscjess). Follow my [instagram page @mujerdev](https://www.instagram.com/mujerdev/) for tutorials so we can learn how to make the web YOURS too ♥
+
+Here are the links to my tutorials:
 
 7 . [CREATE](https://codepen.io/jesscjess/pen/KoRYdW)
 
