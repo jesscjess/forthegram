@@ -4,6 +4,8 @@ I make the web MINE by using it to [express myself](https://jessc.co.uk/#jesscje
 
 Here are the links to my tutorials:
 
+8 . [From Style to Class](https://codepen.io/jesscjess/pen/RMXNyO)
+
 7 . [CREATE](https://codepen.io/jesscjess/pen/KoRYdW)
 
 6 . [Want that Font](https://codepen.io/jesscjess/pen/NYMmWN)
